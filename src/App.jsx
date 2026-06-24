@@ -755,7 +755,7 @@ export default function App() {
       <nav>
         <div className="nav-inner">
           <button className="nav-logo" onClick={() => navigate("home")}>
-            ☔
+            恋雨
           </button>
           <div className="nav-links">
             {[
